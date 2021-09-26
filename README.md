@@ -26,11 +26,11 @@
 <img width="1432" alt="Screen Shot 2021-09-25 at 12 35 57" src="https://user-images.githubusercontent.com/43513994/134821894-af9e8029-940c-4765-96e4-6e4d9d14b829.png">
 
 # 6 - Finally : Browse to “http://localhost:5100/” from your microsoft machine
-<img width="1417" alt="Screen Shot 2021-09-25 at 5 07 17" src="https://user-images.githubusercontent.com/43513994/134822445-296177d5-e95e-4b9b-9788-b19957094294.png">
 <img width="1228" alt="Screen Shot 2021-09-26 at 21 07 30" src="https://user-images.githubusercontent.com/43513994/134821947-a4320a9c-409f-4831-996d-0264aa435718.png">
 
 # 7 - Does it works? If not, make it work
-# It works by installing **.NET Core Hosting Bundle** : *The .NET Core Hosting bundle is an installer for the .NET Core Runtime and the ASP.NET Core Module. The bundle allows ASP.NET Core apps to run with IIS.*
+## It works by installing **.NET Core Hosting Bundle** : *The .NET Core Hosting bundle is an installer for the .NET Core Runtime and the ASP.NET Core Module. The bundle allows ASP.NET Core apps to run with IIS.*
+<img width="1417" alt="Screen Shot 2021-09-25 at 5 07 17" src="https://user-images.githubusercontent.com/43513994/134822445-296177d5-e95e-4b9b-9788-b19957094294.png">
 <img width="1440" alt="Screen Shot 2021-09-26 at 21 17 01" src="https://user-images.githubusercontent.com/43513994/134821940-e73b9d5d-bddc-4015-afd6-e114d38b328d.png">
 
 
