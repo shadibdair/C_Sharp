@@ -3,8 +3,6 @@
 
 ---
 
-# Added some Screenshots:
-
 # 1 - Added IIS to windows server.
 <img width="1210" alt="added-IIS" src="https://user-images.githubusercontent.com/43513994/134821859-26ba879f-9815-4fda-b7ce-84dad07fb297.png">
 
