@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZS91c/WorS6nwsePFoTgCTLKbmSKmI9MQAr+y4WCVkfGfgV3NVAa3auKz6mSiGWdfZKc0ZcCU4CLmE9N1SMAVA==",
+  "success": true,
+  "projectFilePath": "/Users/shadibadir/Projects/Bootcamp-Week03/Bootcamp-Week03/Bootcamp-Week03.csproj",
+  "expectedPackageFiles": [
+    "/Users/shadibadir/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
